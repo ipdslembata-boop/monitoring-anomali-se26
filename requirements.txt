@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 streamlit
 pandas
+=======
+streamlit
+pandas
+>>>>>>> 86f3811a527560900f2cab5ef03630103bb98a8e
 openpyxl
